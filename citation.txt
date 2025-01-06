@@ -1,12 +1,8 @@
 @article{REPO156,
     author = "Wang, Libo and Li, Rui and Zhang, Ce and Fang, Shenghui and Duan, Chenxi and Meng, Xiaoliang and Atkinson, Peter M.",
-    doi = "https://doi.org/10.1016/j.isprsjprs.2022.06.008",
-    issn = "0924-2716",
     journal = "ISPRS Journal of Photogrammetry and Remote Sensing",
-    keywords = "Semantic Segmentation, Remote Sensing, Vision Transformer, Fully Transformer Network, Global-local Context, Urban Scene",
     pages = "196-214",
     title = "{UNetFormer: A UNet-like transformer for efficient semantic segmentation of remote sensing urban scene imagery}",
-    url = "https://www.sciencedirect.com/science/article/pii/S0924271622001654",
     volume = "190",
     year = "2022"
 }
